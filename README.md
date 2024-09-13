@@ -5,12 +5,12 @@ This is an demo app created with the help of figma. Explore how app made interac
 
 The direct file cannot be uploaded due to size limit..
 
-Step1 : Choose the frame on which you are interested to create on.
-Step2 : Create the widgets or containers with the help of *Shape tools*.
-Step3 : Buttons can also be created in same manner.
-Step4 : Duplicate page to create multiple or create new page with same frame size and depict the changes in new page which has to be rendered on click.
-Step4 : Select the frame and bring in interactions with the help of prototype section. Hover on to the element and click on *+* icon to connect it to next element.
-Step5 : Preview or run the prototype to glane at your app...
+- Step1 : Choose the frame on which you are interested to create on.
+- Step2 : Create the widgets or containers with the help of *Shape tools*.
+- Step3 : Buttons can also be created in same manner.
+- Step4 : Duplicate page to create multiple or create new page with same frame size and depict the changes in new page which has to be rendered on click.
+- Step4 : Select the frame and bring in interactions with the help of prototype section. Hover on to the element and click on *+* icon to connect it to next element.
+- Step5 : Preview or run the prototype to glane at your app...
 
 ------------------------------------------------
 
